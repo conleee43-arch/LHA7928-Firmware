@@ -1,0 +1,26 @@
+# Keil MDK-ARM build outputs & temporary files
+MDK-ARM/firmware/
+MDK-ARM/Objects/
+MDK-ARM/Listings/
+*.bak
+*.d
+*.o
+*.crf
+*.axf
+*.map
+*.htm
+*.dep
+*.lnp
+*.iex
+*.__i
+*.uvguix.*
+*.uvgui.*
+JLinkLog.txt
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.vscode/
+.idea/
